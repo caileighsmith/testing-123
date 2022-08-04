@@ -16,3 +16,4 @@ class Cuboid {
   }
 
 }
+module.exports = {Cuboid}
